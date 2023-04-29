@@ -8,7 +8,7 @@ The repository contains the following files and folders:
 - Weekly: Folder containing the weekly readings and research notebook entries.
   - Readings Week: Subfolder containing the readings for each week.
   - Research Notebook Entry: Subfolder containing the research notebook entries for each week.
--Project: Folder containing all the files for the project.
+- Project: Folder containing all the files for the project.
   - Codes: Subfolder containing the code for the project.
   - Ambassador Reports: Subfolder containing the reports for the ambassador role in the project.
   - Statement of Contribution: Text file containing the statement of contribution for the project.
